@@ -1,7 +1,7 @@
 ffmpeg
 curl 
 gnupg2
-aria2c
+aria2
 wget
 unzip
 git
