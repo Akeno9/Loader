@@ -1,0 +1,7 @@
+ffmpeg
+curl 
+gnupg2
+aria2c
+wget
+unzip
+git
